@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ayi-solahudin/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img alt="Medium" title="Medium" width="120px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
-  <a href="https://www.instagram.com/ayi.shallahudin/"><img src="instagram.png"/></a>
+  <a href="https://www.instagram.com/ayi.shallahudin/"><img width="120px" src="instagram.png"/></a>
 
 
 <!--
