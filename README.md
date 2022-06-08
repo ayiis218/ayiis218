@@ -1,16 +1,17 @@
 <h1 align="center"> 👋, I'm Ayi Solahudin</h1>
-<h3 align="center"> A passionate Full Stack Developer, currently training at Pijarcamp. </h3>
+<h3 align="center"> A passionate Full Stack Developer, currently training at Pijarcamp</h3>
 
 - I’m currently learning **Fullstack developer**
 
 -  How to reach me **ayiis.218@gmail.com**
 
--  being yourself is not bad**
+-  being yourself is not bad
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ayi-solahudin-a20294189/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img alt="Medium" title="Medium" width="120px" src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
   <a href="https://www.instagram.com/ayi.shallahudin/"><img width="90px" src="instagram.png"/></a>
+</p>
 
 
 <!--
