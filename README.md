@@ -36,4 +36,5 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayiis218&show_icons=true&locale=en&layout=compact" alt="ayiis218" /></p> -->
 
 <h3 align="left">Performance in Github :</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayiis218&show_icons=true&locale=en" alt="Ayiis218" /></p>
+<p align="center">&nbsp;<img alt="Furkan-Gulsen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayiis218&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</p>
