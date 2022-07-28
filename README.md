@@ -1,7 +1,7 @@
 <h1 align="center"> 👋, I'm Ayi Solahudin</h1>
 <h3 align="center"> A passionate Full Stack Developer, currently training at Pijarcamp</h3>
 
-- I’m currently learning **Fullstack developer**
+- I’m currently learning **Fullstack Web Developer**
 
 -  How to reach me **ayiis.218@gmail.com**
 
@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ayi-solahudin/"><img alt="LinkedIn" width="100px" height="29px"  title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img alt="Medium" title="Medium"  width="100px" height="29px"  src="https://www.closer.pt/media/1862/medium-logo.png"/></a>
-  <a href="https://www.instagram.com/ayi.shallahudin/"><img width="100px" height="32px" src="instagram.png"/></a>
+  <a href="https://www.instagram.com/ayi.shallahudin/"><img width="100px" height="32px" src="https://thumbs.dreamstime.com/z/instagram-141049465.jpg"/></a>
 </p>
 
 
