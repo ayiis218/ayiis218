@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/ayi.shallahudin/"><img height="35px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Languages, Framework and Tools :</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css" width="40" height="40"/> </a>
@@ -29,6 +29,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="mysql" width="40" height="40"/> </a>
+<p align="center"> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="postman" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/netbeans.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
    
