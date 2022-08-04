@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="center">
-  <a href="#"><img alt="Medium" title="Medium" height="35px"  src="https://cdn-icons.flaticon.com/png/128/3670/premium/3670098.png?token=exp=1658985314~hmac=4501d57303eb945e7f47f31a526da3cd"/></a>
+  <a href="#"><img alt="Medium" title="Medium" height="35px" src="https://pic.onlinewebfonts.com/svg/img_424230.png"/></a>
   <a href="https://www.linkedin.com/in/ayi-solahudin/"><img alt="LinkedIn" height="35px" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"/></a>
   <a href="https://www.instagram.com/ayi.shallahudin/"><img height="35px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/></a>
 </p>
