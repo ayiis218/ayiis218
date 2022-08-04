@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="center">
-  <a href="#"><img alt="Medium" title="Medium" height="35px" src="https://pic.onlinewebfonts.com/svg/img_424230.png"/></a>
-  <a href="https://www.linkedin.com/in/ayi-solahudin/"><img alt="LinkedIn" height="35px" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/174/174857.png"/></a>
-  <a href="https://www.instagram.com/ayi.shallahudin/"><img height="35px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png"/></a>
+  <a href="#"><img alt="Medium" title="Medium" height="45px" src="https://pic.onlinewebfonts.com/svg/img_424230.png"/></a>
+  <a href="https://www.linkedin.com/in/ayi-solahudin/"><img alt="LinkedIn" height="45px" title="LinkedIn" src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent----6.png"/></a>
+  <a href="https://www.instagram.com/ayi.shallahudin/"><img height="45px" src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-circle-instagram-media-network-social-logo-new-16.png"/></a>
 </p>
 
 <h3 align="left">Languages, Framework and Tools :</h3>
